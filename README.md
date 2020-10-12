@@ -7,7 +7,7 @@ My name is **Jake Tompkins** and I am a graduate student in UCLA's Department of
 
 
 ## Assignment 1:
-***
+
 #### 1. [**Federal Emergency Management Agency (FEMA)**](https://apps.apple.com/us/app/fema/id474807486) Mobile Application
 
 ![FEMA App](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/5e/f8/35/5ef83525-e934-039e-fa7e-22f4aeb3ebda/AppIcon-1x_U007emarketing-0-10-0-0-0-0-85-220.png/700x400wa.png)
