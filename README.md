@@ -45,7 +45,7 @@ I will begin the test with an introduction of who I am and why I have asked them
 
 #### Survey link
 
-[**Usability Test Survey**](https://forms.gle/qKXMq1hXscVLrmya6)
+[Usability Test Survey](https://forms.gle/qKXMq1hXscVLrmya6)
 
 #### Video link
 
