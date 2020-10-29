@@ -43,10 +43,8 @@ I will be doing a remote moderated usability test conducted via Zoom and recorde
 
 I will begin the test with an introduction of who I am and why I have asked them to participate, followed by an icebreaker and asking if they have any questions before we begin. Once I have received informed consent from the participant, I will ask them to complete 3 separate tasks that a user would typically use the website for. Each of these 3 tasks have sub-tasks that I will break down for the user. At the end, I will have the participant answer some post-test questions to give me insights on their experience completing the 3 tasks. As part of this section of the test, I will have the user select 5 cards that represent their overall experience with the website. Finally, before submitting their responses, I will have the user answer some (optional) confidential demographic questions to collect some extra data. Although their responses won't be shared, I will ask the user to only answer questions they feel comfortable with.
 
-#### Survey link
+#### Usability Test Survey link: [Here](https://forms.gle/qKXMq1hXscVLrmya6)
 
-[Usability Test Survey](https://forms.gle/qKXMq1hXscVLrmya6)
-
-#### Video link
+#### Video link: [Here](https://drive.google.com/file/d/15J6SP75-ZX01PrvW18furalc15ZkCQwq/view?usp=sharing)
 
 #### Reflection
