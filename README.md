@@ -43,11 +43,53 @@ I will be doing a remote moderated usability test conducted via Zoom and recorde
 
 I will begin the test with an introduction of who I am and why I have asked them to participate, followed by an icebreaker and asking if they have any questions before we begin. Once I have received informed consent from the participant, I will ask them to complete 3 separate tasks that a user would typically use the website for. Each of these 3 tasks have sub-tasks that I will break down for the user. At the end, I will have the participant answer some post-test questions to give me insights on their experience completing the 3 tasks. Within this section of the test, I will have the user select 5 cards that represent their overall experience with the website. Finally, before submitting their responses, I will have the user answer some (optional) confidential demographic questions to collect some extra data. Although their responses won't be shared, I will ask the user to only answer questions they feel comfortable with.
 
-#### Usability Test Survey link: [Here](https://forms.gle/qKXMq1hXscVLrmya6)
+#### [Usability Test Survey Link](https://forms.gle/qKXMq1hXscVLrmya6)
 
-#### Video link: [Here](https://drive.google.com/file/d/15J6SP75-ZX01PrvW18furalc15ZkCQwq/view?usp=sharing)
+#### [Video Link](https://drive.google.com/file/d/15J6SP75-ZX01PrvW18furalc15ZkCQwq/view?usp=sharing)
 
 #### Reflection
 During the usability test I found it really difficult not to answer the participant's questions when they felt frustrated. There were times when I expected the user to take a certain route, but her thought process took her in a different direction than what I had anticipated. In future UT's, I hope that I will do a better job not guiding the participant and letting them work through the task and problem solve on their own.
 
 My primary concern with the UT was to see how well the user was able to use the navigation panel from the home page to find specific information for the tasks. As I expected, the participant clicked on pages that *seemed* to be correct, but actually led them away from the page of the website that they were looking for. From this UT, I believe there are several things that could be changed about the site to improve how quickly a user could find the information they need without the frustration of being misguided by the architecture of information currently used.
+
+## Assignment 4: Contextual Inquiry
+---
+### Design Challenge
+
+#### What does your project support users in accomplishing?
+The main design focus
+
+#### What is the basic need involved?
+
+#### What are the current solutions available to satisfy those needs?
+
+#### What are some limitations that would be improved with technology?
+
+---
+### Target users
+
+#### What are the characteristics of users?
+
+#### Where would the users do that activity?
+
+#### What would users to do complete that activity?
+
+***
+### Research Methods
+
+***
+### Research Materials
+
+#### 1. [Contextual Inquiry Guide]()
+
+#### 2. [User Data]()
+
+#### 3. [Transcription]()
+
+#### 4. [Data Files]()
+
+***
+### Notes
+
+***
+### Reflection
