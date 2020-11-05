@@ -53,7 +53,6 @@ During the usability test I found it really difficult not to answer the particip
 My primary concern with the UT was to see how well the user was able to use the navigation panel from the home page to find specific information for the tasks. As I expected, the participant clicked on pages that *seemed* to be correct, but actually led them away from the page of the website that they were looking for. From this UT, I believe there are several things that could be changed about the site to improve how quickly a user could find the information they need without the frustration of being misguided by the architecture of information currently used.
 
 ## Assignment 4: Contextual Inquiry
----
 ### The Design Challenge
 
 #### What is the main activity your project would support the users in accomplishing?
