@@ -166,3 +166,33 @@ Storytelling in UX is crucial to make sure your design team is keeping the user'
 
 #### Journey Map
 ![Jeremy journey map](Jeremy_Map.png)
+
+## Assignment 6: Low Fidelity Prototype
+
+### Overview
+
+**Purpose:** text
+
+**User Personas:** text
+
+**Features & Tasks:** text
+
+
+### Wireframes and Wireflows
+
+#### Notes on Wireflow test
+
+**Task 1: ....**
+> Text
+
+**Task 2: ....**
+> Text
+
+**Task 3: ....**
+> Text
+
+**Task 4: ....**
+> Text
+
+**Task 5: ....** 
+> Text
