@@ -194,5 +194,8 @@ Storytelling in UX is crucial to make sure your design team is keeping the user'
 **Task 4: ....**
 > Text
 
-**Task 5: ....** 
+**Task 5: ....**
 > Text
+
+### Summary
+Text
