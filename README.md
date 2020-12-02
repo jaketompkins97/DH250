@@ -223,8 +223,27 @@ For the most part, it was fairly easy for the users to complete the tasks I aske
 
 If I were to go back and make adjustments, I would definitely add more buttons confirming selections. I was extra careful to include emergency exit buttons but forgot to include the option for users to confirm the information they enter!
 
+## Assignment 7 Part I: High-Fidelity Prototype
+### Description
+The three sample screens I have provided include my homepage, checklist feature, and evacuation route mapping feature. For my first iteration (row 1) of the interface designs I wanted to see how the placement of my buttons, text, and pop-up screens looked. In the next iteration (row 2) I tried manipulating the color and typography to see if there were any fonts that stuck out to me as professional and user-friendly. Lastly, (row 3) I boldened the colors, implemented a monochromatic palette, and introduced more buttons so users could have more options to leave a screen or close a pop-up.
 
-## Assignment 7: High-Fidelity Prototype
+![Interface Designs](Interface_Design.png)
+
+### Impression Test
+I had a user review the different designs to get feedback along the way. They were able to markup the different screens with their thoughts and suggestions about the design and layout of the graphical interface. Based on their recommendations, I made changes with each iteration until landing on the final design in the final row.
+
+![Impression Test](Impression_Test.png)
+
+### Compliance
+Using the A11y - Color Contrast Checker plugin for Figma, I was able to check the color contrast to ensure my designs were accessibility WCAG2.0 AA compliant.
+
+![Homepage](Homepage.png)
+
+![Checklist](Checklist.png)
+
+![Map](Map.png)
+
+## Assignment 7 Part II: High-Fidelity Prototype
 
 ### Interactive Prototype: [Disastr.gov](https://www.figma.com/file/0jzW7usqVHhQD3B3pS1HXn/Disastr.gov?node-id=0%3A1)
 
@@ -250,7 +269,7 @@ This is a high-fidelity prototype of a fictional government website called Disas
 ### Graphical Interface Design Decisions
 
 #### Color Scheme
-Since this website is supposed to be modeled like a government site, I wanted to stick with a very professional looking color scheme and minimalize the amount of colors used. I decided to go with a blue palette for most of the screens and only incorporate colors like green and red for buttons to approve or deny an action. The homepage incorporates red, yellow, and green like a traffic light because it's familiar to all types of users and they can understand that red usually means something bad, yellow is more neutral, and green means something positive. I didn't use an accessibility checker with Figma because I couldn't find one that worked, but I am certain that the light text on a dark background would pass an accessibility test because of the high contrast. I also used a light blue color to show which step or part of the screen a user was focused on in juxtaposition with a darker blue for other tasks or items in a list. For example, when a user is following the checklist they will see the first item is highlighted in lighter blue, then when they select the next item it will become light blue and the other items become dark blue again. I also used light grays and dark grays to indicate which step a user was on as they completed the process of searching their address to see disasters happening in their area.
+Since this website is supposed to be modeled like a government site, I wanted to stick with a very professional looking color scheme and minimalize the amount of colors used. I decided to go with a blue palette for most of the screens and only incorporate colors like green and red for buttons to approve or deny an action. The homepage incorporates red, yellow, and green like a traffic light because it's familiar to all types of users and they can understand that red usually means something bad, yellow is more neutral, and green means something positive. I used an accessibility checker with Figma called the A11y - Color Contrast Checker, so I am certain that my designs would pass an accessibility test. I also used a light blue color to show which step or part of the screen a user was focused on in juxtaposition with a darker blue for other tasks or items in a list. For example, when a user is following the checklist they will see the first item is highlighted in lighter blue, then when they select the next item it will become light blue and the other items become dark blue again. I also used light grays and dark grays to indicate which step a user was on as they completed the process of searching their address to see disasters happening in their area.
 
 #### Typography
 For the home page I used a specific font to stand out for the menu to navigate to the home, disasters, and about pages. For the rest of the prototype I use a friendlier font that is consistent throughout, so the site looks professional and governmental.
