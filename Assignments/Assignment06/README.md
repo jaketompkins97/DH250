@@ -12,8 +12,7 @@
 ### Wireframes and Wireflows
 
 First iteration of wireframes by hand:
-![First iteration of wireframes by hand](Original_Wireframe.png)
-
+![Original wireframes](Original_Wireframe.png)
 ***
 
 Wireflows designed in Whimsical:
