@@ -6,7 +6,7 @@
 
 **User Personas:** The user personas I identified are older users who are likely to find themselves in a disaster and in need of help. These users are most likely to have valuable things in their lives (material or familial) that they would like to protect in the event of a disaster in their area. The goal of these new features is to help those users successfully do that.
 
-**Features & Tasks:** The features and tasks of this low-fi prototype were ideated through various steps of user research, including usability testing of the current DisasterAssistance.gov site, contextual inquiry, and surveying a user interact with related sites. The two features include: an AI chat function that allows user to input data and get real-time answers, a check-list wizard that walks users through important action items, and an evaluation tool that tells a user how severe their situation is based on their location.
+**Features & Tasks:** The features and tasks of this low-fi prototype were ideated through various steps of user research, including usability testing of the current DisasterAssistance.gov site, contextual inquiry, and surveying a user interact with related sites. The three features include: an AI chat function that allows user to input data and get real-time answers, a check-list wizard that walks users through important action items, and an evaluation tool that tells a user how severe their situation is based on their location.
 
 
 ### Wireframes and Wireflows
