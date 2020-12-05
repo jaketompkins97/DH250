@@ -12,8 +12,8 @@ For this activity, a user needs urgent assistance (informational, financial, or 
 #### What are the current solutions available to satisfy those needs?
 
 Alternatives are calling 911 or simple Google searches for specific forms of assistance. However, users who are in emergency situations may not know what type of assistance is available to them, so these resources can be:
-* A.) time consuming to navigate if the user has lots of questions they need answered
-* B.) not helpful for users who don't know what exactly they should search for and are struggling with a very stressful/intense situation that impacts their decision-making.
+* A) time consuming to navigate if the user has lots of questions they need answered
+* B) not helpful for users who don't know what exactly they should search for and are struggling with a very stressful/intense situation that impacts their decision-making.
 
 #### What are some limitations that would be improved with technology?
 
