@@ -95,8 +95,8 @@ To complete the activity, users may use their search browser on their computer o
 ***
 ### Research Methods
 
-The research methods I employed for this assignment were through **participatory observation** with a follow up **interview** by directly asking the user some insightful questions.
-* Through **participatory observation** I can directly observe a user completing a task to see how they would normally go about finding the information they need.
+The research methods I employed for this assignment were through **user observation** with a follow up **interview** by directly asking the user some insightful questions.
+* Through **user observation** I can directly observe a user completing a task to see how they would normally go about finding the information they need.
 * I will also **interview** the user to ask them specific questions and have a discussion about what they would do in specific situations given there was an emergency.
 
 ***
